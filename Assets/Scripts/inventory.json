@@ -1,0 +1,40 @@
+{
+  "Inventory": [
+    {
+      "id": "army_boots",
+      "price": 2000,
+      "quantity": 5,
+      "displayName": "Army Boots"
+    },
+    {
+      "id": "converse",
+      "price": 1500,
+      "quantity": 7,
+      "displayName": "Converse"
+    },
+    {
+      "id": "converse_1",
+      "price": 1200,
+      "quantity": 3,
+      "displayName": "Converse Variant 2"
+    },
+    {
+      "id": "fliplop",
+      "price": 2000,
+      "quantity": 5,
+      "displayName": "Flip Flops"
+    },
+    {
+      "id": "loafers",
+      "price": 4000,
+      "quantity": 8,
+      "displayName": "Loafers"
+    },
+    {
+      "id": "shoes",
+      "price": 1800,
+      "quantity": 5,
+      "displayName": "Shoes"
+    }
+  ]
+}
