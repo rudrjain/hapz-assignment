@@ -71,5 +71,6 @@ public class InventoryAssetSelector : MonoBehaviour
         quantity--;
         HandleActiveInactiveButton();
         InventoryController.GetInstance().AddToCart(data.id, data.price);
+        InvoiceHandler.GetInstance().UpdateInvoice(data.id);
     }
 }
